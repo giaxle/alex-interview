@@ -1,0 +1,17 @@
+Instructions
+
+For this project, you will create an image gallery. 
+
+Do this in pure javascript!
+
+You should be able to upload images and display them in a thumbnail list. When an image thumbnail is selected, a larger version of that image should be displayed. The user should also be able to delete images from the gallery. For each image, create a "like" button that increments everytime it is selected and display the number. An example of this is something like instagram.
+
+Requirements:
+  1. The user should be able to upload either an image folder or an images one by one
+  2. Each image should have its own thumbnail displayed in a list
+  3. When an image thumbnail is selected, a larger copy of that image should be displayed
+  4. Enable the user to delete the image from the gallery
+  5. Create a "like" button that increments everytime it is selected. Display the number of likes and the number should remain consistent when switching between images.
+
+Styling this gallery is up to you, just make it intuitive.
+An example of how the end result could look is included in the file called 'example.png'
